@@ -9,5 +9,7 @@
 - **git branch [rama]** : crear una rama.
 - **git checkout [rama]** : pasarme a una rama.
 - **git checkout -b [rama]** : crear y pasarme a una rama.
+  
+ ## Comandos remotos 
 - **git remote -v** : ver los repositorios que tengo remotos.
 - **git remote add origin [link]** : agregar un repositorio remoto.
