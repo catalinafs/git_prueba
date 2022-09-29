@@ -8,13 +8,13 @@
 - ````git branch```` : listar las ramas.(Solo te aparece la una rama una vez que hayas commit)
 - ````git branch [rama]```` : crear una rama.
 - ````git checkout [rama]```` : pasarme a una rama.
-- ````git checkout -b [rama]```` : crear y pasarme a una rama.
+- ````git checkout -b(branch) [rama]```` : crear y pasarme a una rama.
   
  ## Comandos remotos 
 - ````git remote -v```` : ver los repositorios que tengo remotos.
 - ````git remote remove [name]```` : eliminar repositorios remotos.
 - ````git remote rename [old name] [new name]```` : renombrar un repositorio remoto.
-- ````git remote add origin [link]```` : agregar un repositorio remoto.
+- ````git remote add [name of the remote] [link]```` : agregar un repositorio remoto.
 - ````git clone [file]```` : clonar un repositorio.
 - ````git diff [first link of a commit] [secondo link of a commit]```` : muestra la diferencia entre un commit y el otro.
 
