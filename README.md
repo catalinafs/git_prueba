@@ -16,5 +16,6 @@
 - ````git remote rename [old name] [new name]```` : renombrar un repositorio remoto.
 - ````git remote add origin [link]```` : agregar un repositorio remoto.
 - ````git clone [file]```` : clonar un repositorio.
+- ````git diff [first link of a commit] [secondo link of a commit]```` : muestra la diferencia entre un commit y el otro.
 
 # agregue otra cosa
